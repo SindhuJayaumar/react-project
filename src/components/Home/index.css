@@ -1,0 +1,30 @@
+.card{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    height:350px;
+    width:400px;
+    margin-left: 30px;
+    border: 1px solid #000000;
+}
+.heading{
+    font-weight: bold;
+    font-family: "Roboto";
+    color:#000000;
+    text-align: center;
+}
+.input{
+    height:40px;
+    width:300px;
+    margin-left:20px;
+}
+.button{
+    background-color:#d946ef;
+    margin-left: 20px;
+    height:40px;
+    color:#ffff;
+    border: none;
+    cursor: pointer;
+    outline: none;
+
+}
